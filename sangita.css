@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        p{
+            color:red;
+        }
+        h1{
+            color:blue;
+        }
+        </style>
+        
+    </head>
+    <body>
+        <p style="color:blue;font-family:Roboto;font-size:50px;"> superman is a fictional superhero </p>
+        <p> superman is a fictional superhero </p>
+        <p> superman is a fictional superhero </p>
+        <p> superman is a fictional superhero </p>
+        
+    </body>
+</html>
